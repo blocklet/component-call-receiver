@@ -4,7 +4,7 @@
 
 This blocklet acts as receiver for testing component.call
 
-the sander should do this:
+the sender should do this:
 
 ```js
 const { Component } = require('@blocklet/sdk');
