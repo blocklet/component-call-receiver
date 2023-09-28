@@ -1,7 +1,7 @@
 did: z2qa5KQyqGsQSDkuEW8Do25caboQbAXt4aWS7
 name: z2qa5KQyqGsQSDkuEW8Do25caboQbAXt4aWS7
 title: Component Call Receiver
-version: 1.0.2
+version: 1.0.3
 description: This blocklet acts as receiver for testing component.call
 keywords:
   - blocklet
@@ -9,8 +9,9 @@ keywords:
 group: dapp
 main: api/index.js
 author:
-  name: linchen
-  email: linchen.1987@foxmail.com
+  name: ArcBlock
+  email: blocklet@arcblock.io
+  url: https://github.com/blocklet
 repository:
   type: git
   url: git+https://github.com/blocklet/create-blocklet.git
@@ -27,8 +28,8 @@ interfaces:
     prefix: '*'
     port: BLOCKLET_PORT
     protocol: http
-community: ''
-documentation: ''
+community: https://community.arcblock.io
+documentation: https://developer.blocklet.io
 homepage: ''
 license: ''
 payment:
